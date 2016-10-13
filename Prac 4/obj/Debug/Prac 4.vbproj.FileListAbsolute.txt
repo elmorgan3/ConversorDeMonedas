@@ -1,0 +1,25 @@
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\bin\Debug\Prac 4.exe.config
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\bin\Debug\Prac 4.exe
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\bin\Debug\Prac 4.pdb
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\bin\Debug\Prac 4.xml
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\obj\Debug\Prac_4.Form1.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\obj\Debug\Prac_4.Resources.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\obj\Debug\Prac 4.vbproj.GenerateResource.Cache
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\obj\Debug\Prac 4.exe
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\obj\Debug\Prac 4.xml
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\Prac 4\obj\Debug\Prac 4.pdb
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\bin\Debug\Prac 4.exe.config
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\obj\Debug\Prac 4.exe
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\obj\Debug\Prac 4.xml
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 4\Prac 4\obj\Debug\Prac 4.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\bin\Debug\Prac 4.exe.config
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\obj\Debug\Prac 4.exe
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\obj\Debug\Prac 4.xml
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\obj\Debug\Prac 4.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\bin\Debug\Prac 4.exe
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\bin\Debug\Prac 4.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\bin\Debug\Prac 4.xml
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\obj\Debug\Prac 4.vbprojResolveAssemblyReference.cache
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\obj\Debug\Prac_4.Form4.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\obj\Debug\Prac_4.Resources.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 4\Prac 4\obj\Debug\Prac 4.vbproj.GenerateResource.Cache
